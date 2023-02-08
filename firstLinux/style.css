@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+}
+
+button{
+    position: center;
+    margin-left: 40%;
+    margin-top: 50%;
+    width: 120px;
+    height: 100px;
+    border-radius: 10px;
+}
