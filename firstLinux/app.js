@@ -13,6 +13,6 @@ some.addEventListener('click', () => {
 slider.addEventListener('click', () => {
     console.log('sliding');
     console.log(slider.value);
-    document.body.style.backgroundColor = `rgb(${slider.value=},${rgb()},${rgb()})`;
+    document.body.style.backgroundColor = `rgb(${slider.value}=${rgb()},${rgb()})`;
 })
 
